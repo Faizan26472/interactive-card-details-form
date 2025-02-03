@@ -1,0 +1,8 @@
+* {
+  font-family: "Space Grotesk", serif;
+  font-weight: 500;
+}
+
+label {
+  color: hsl(278, 68%, 11%);
+}

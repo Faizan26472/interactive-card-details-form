@@ -1,0 +1,6 @@
+.card-front {
+    background-image: url("../../assets/bg-card-front.png");
+    width: 447px;
+    background-repeat: no-repeat;
+    height: 245px;
+}

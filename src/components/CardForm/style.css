@@ -1,0 +1,8 @@
+.card-button {
+    background-color: hsl(278, 68%, 11%);
+
+}
+
+.card-button:active {
+    background-color: hsl(277, 48%, 22%);
+}
