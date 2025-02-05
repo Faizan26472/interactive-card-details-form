@@ -1,3 +1,21 @@
 .main-container {
     background-image: url("../../assets/bg-main-desktop.png");
 }
+
+@media screen and (max-width: 768px) {
+    .main-container {
+        background-image: url("../../assets/bg-main-mobile.png");
+        flex-direction: column;
+        
+    }
+
+    .left-container {
+        width: 375px;
+        height: fit-content;
+    }
+    .right-container {
+        width: 100%;
+        padding: 5px;
+        
+    }
+}

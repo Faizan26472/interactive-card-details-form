@@ -6,3 +6,12 @@
 .card-button:active {
     background-color: hsl(277, 48%, 22%);
 }
+
+@media screen and (max-width: 768px) {
+    .card-form-container {
+        width: 350px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
